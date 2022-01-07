@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://tauhu.tw/tauhu-oo.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <title>保護生態永續賞螢</title>
+    <!--主題-->
+    <script type="text/javascript"src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript"src="https://code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
+    <!--jQuery UI(使用者介面/外觀/格式) css語法引用網址-->
+    <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.13.0-rc.3/themes/smoothness/jquery-ui.css"></script>
+    <!--css語法-->
+
+<style type="text/css">
+      h1{color:#642100;font-size: 3em}
+      h2{color:#006030;font-size: 2em}
+      h3{color:#cb2701;font-size: 1.5em}
+      h4{color:#003060;font-size: 1em}
+h5{
+      font-family: tauhu-oo, PingFangTC-Regular, "Microsoft JhengHei", sans-serif;
+font-size: 1.2em;color: #4B0080
+}
+
+</style>
+<!--字體顏色和大小更改-->
+
+</head>
+
+<body style="background-color:  #D6D6AD;">
+<!--背景顏色更改-->    
+
+
+<center>
+	<img src="lightning bug.jpg" alt="傷心等"width ="1200" height="200" >
+    <!--螢火蟲橫幅-->
+
+    <h1 id="top">保護生態永續賞螢</h1>
+    <!--保護生態永續賞螢-->
+     <h4 style="background-color: #B9B973; font-size: 1.2em;">//<a href="1.3(0)index.html">首頁</a>//<a href="1.3(1)index.html">認識螢火蟲</a>//<a href="1.3(2)index.html">保護螢火蟲</a>//<a href="1.3(3)index.html">設計團隊</a>//<a href="1.3(4)index.html">網站設計結構圖</a>//<a href="https://www.newsmarket.com.tw/blog/49947/" target="_blank">相關網站1</a>//<a href="https://www.sdec.ntpc.edu.tw/epaper/9604/1.htm" target="_blank">相關網站2</a>//<a href="https://hiking.biji.co/index.php?q=news&act=info&id=13394" target="_blank">相關網站3</a>//</h4>
+    <!--選單內部和外部連結-->
+
+<pre>
+      
+
+</pre><!--強制控行-->
+
+    <h2 id="know">認識螢火蟲</h2>
+     <!--認識螢火蟲的內部連結-->
+     
+    <h4>//<a href="#grow">螢火蟲的成長過程？</a>//<a href="#Green light">螢火蟲的綠光？</a>//<a href="#type">螢火蟲的種類？</a>//<a href="#season">螢火蟲的季節？</a>//<a href="#food">螢火蟲的食物？</a>//</h4>
+    <!--選單內部和外部連結-->
+
+    <table border="1">  
+<tr>  
+    <td><h3 id="grow">螢火蟲的成長過程？</h3>
+        <!--次標題-->
+        <h4>螢火蟲是一種『完全變態』的昆蟲。<br>所謂『完全變態』是指一生中個體出現的型態包括「卵」→「幼蟲」→「蛹」→「成蟲」等四個階段。</h4>
+        <h4>卵期：圓形，通常淡黃色、白色或粉紅色，卵孵化時間約需20天左右。</h4>
+        <h4>幼蟲期：共有六齡，幼蟲期有蛻皮現象。幼蟲身體長而扁平，頭部有明顯的深褐色針狀大顎。胸部有三節，腹部九節，和六隻細長的腳，第八腹節有兩枚發光器，第九腹節有一個如吸盤般的尾足，用來吸附於物體。走起路來一屈一伸的，向尺蠖蛾的幼蟲一般。<h4>
+        <h4>蛹期：約七天，體色為淡黃色或白色，屬裸蛹。可以清楚的看見牠的複眼、口器、觸角、足、及各體節等。</h4>
+        <h4>成蟲期：黃緣螢生活約十天左右，其它種類的螢火蟲有些較長。成蟲有兩對翅膀，前翅為革質，後翅為膜質，頭部上方有一對觸角和兩個水汪汪的複眼，約佔整個頭部的三分之二，視覺十分敏銳。</h4>
+        <img src="grow.png" alt="傷心等"width ="1000">
+        <!--內容及照片更改-->
+    </td>
+</tr>
+<tr>  
+    <td><h3 id="Green light">螢火蟲的綠光？</h3>
+        <!--次標題-->
+        <h4>螢火蟲成蟲藉由腹部的發光器發光，雄蟲二節，雌蟲一節。<br>有些種類則雌雄均只發兩點光，有些甚至不會發光，所以並不是所有的螢火蟲都會發光哦！<br>幼蟲則在其腹部第八腹節有兩枚發光器，多數種的螢火蟲蛹也會發光。</h4>
+        <h4>而螢火蟲如何發出神秘的綠光？發光的目的又是什麼呢？</h4>
+        <h4>原來在螢火蟲腹部末端長有由發光細胞、反射細胞、透明表皮、氣管等組合而成的發光器，其中由螢光素、螢光酵素、三磷酸和氧作用，產生複雜的氧化還原反應，而產生亮光。<br>光由反射細胞反射，經由透明的表皮透射出來，而這樣的綠光其發光效率極高，只有2~10％的能量轉變為熱能，其餘能量均用來發光，稱之為「冷光」，也就說明了螢火蟲的光是不燙人的哦！</h4>
+        <h4> 每種螢火蟲發光的顏色與頻率都不同，如台灣窗螢發著持續的黃綠色光，而黃緣螢則是發閃爍的黃色光。<br>螢火蟲的光閃爍著特定的節奏，是螢火蟲用來交換彼此訊息的語言，也是雄蟲利用亮光，找尋雌蟲達成交尾的工具。<br>此外，螢火蟲的發光行為還有誘集、警戒、對捕食者的恫嚇、照明、偽裝及族群調節等目的。</h4>
+    </td><!--內容-->
+</tr>
+<tr>
+    <td><h3 align="center" id="type">螢火蟲的種類？</h3>
+        <!--次標題-->
+        <h4>全世界己記載的螢火蟲種類約有2000種，台灣大約有56種。依照螢火蟲幼蟲生活的環境，將螢火蟲分為三大類：</h4>
+        <h4>水生螢火蟲：幼蟲多生活在終年有水，水質清澈的山間小水澗，或底層為泥漿的水田裡。如黃緣螢．黃胸黑翅螢及條背螢。</h4>
+        <h4>半水生螢火蟲：幼蟲在清澈溪水所流過的潮濕駁坎或岩壁上棲息。紅翅螢的幼蟲是唯一的半水生螢火蟲，幼蟲有群居現象，有時會有數百隻共同生活在潮濕岩壁上。</h4>
+        <h4>陸生螢火蟲：幼蟲棲息在陰涼、地面略微濕、山區的落葉間或小草上，有些則生活在開闊草地上。大部分螢火蟲都是陸生，包括：臺灣窗螢、紅胸黑翅螢、紋螢、橙螢、擬紋螢、梭德氏脈翅螢、黑翅螢等。</h4>
+        <img align="right" src="type.png" alt="傷心等"width ="1000">
+        <!--內容及照片更改-->
+    </td>
+</tr>
+<tr>
+    <td><h3 id="season">螢火蟲的季節？</h3>
+        <!--次標題-->
+        <h4>一般我們所稱的螢火蟲是指成蟲期，台灣現有的螢火蟲一年中，大約有三季成群出現時段：</h4>
+        <h4>第一季：3月下旬到6月下旬，多在平地到低海拔山區出現螢火蟲成蟲，如黑翅螢、黃胸黑翅螢、紅胸黑翅螢、小紅胸黑翅螢、紋螢、擬紋螢、大端黑螢、梭德氏脈翅螢、端黑螢、紅胸窗螢、黃緣螢、條背螢、赤腹窗螢、赤腹櫛角螢等。這一季出現的螢火蟲種類最多，也最壯觀。</h4>
+        <h4>第二季：7月初到8月底，出現的螢火蟲種類不多，以條背螢、黃緣螢、邊褐端黑螢、臺灣窗螢為主。</h4>
+        <h4>第三季：10月中旬到12月底，當水生螢火蟲如黃緣螢、條背螢逐漸減少後，接續出現的是中、低海拔山區的螢火蟲，像山窗螢、橙螢、雲南扁螢、雙色垂鬚螢，之後則是中、高海拔山區的螢火蟲，如黃緣短角窗螢、鋸角雪螢、雪螢、灰翅雪螢及神木螢等。</h4>
+    </td><!--內容-->
+</tr>
+<tr>
+    <td><h3 id="food">螢火蟲的食物？</h3>
+        <!--次標題-->
+        <h4>成蟲的螢火蟲因為口器已經退化得很小，只吸食露水或花蜜以保持體內水份。<br>而在成蟲期間所消耗的絕大部份養份，都是靠幼蟲時期所儲存。</h4>
+        <h4>而幼蟲吃什麼呢？幼蟲以蝸牛及蚯蚓為主要食物。<br>有些種類只吃蝸牛，例如窗螢屬及部份短角窗螢屬的種類，像山窗螢、蓬萊短角窗螢等都是。<br>有些種類只吃蚯蚓，例如雙色垂鬚螢等。<br>有些則來者不拒，不僅蝸牛、蚯蚓都吃，甚至連同種之間都會互相攻擊，像黑翅螢、端黑螢還有雲南扁螢等。</h4><h4>幼蟲在捕食時，會先以像鎌刀狀的大顎咬住獵物，然後立即注射麻醉劑使獵物麻痺癱瘓，再以消化劑溶解獵物，最後以吸食的方式將獵物的肉汁吸食乾淨。</h4>
+    </td><!--內容-->
+</tr>
+</table>
+<head>
+<style type="text/css">
+.intro{display: none;}
+.img{display: none;}
+</style>
+<!--隱藏動作-->
+<script type="text/javascript">
+        $(document).ready(function(){
+            $(".intro-btn").click(function(){
+                $(".intro").toggle();   
+            })
+        })
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $(".photo").click(function(){
+                $(".picture").toggle();   
+            })
+        })
+    </script>
+</head>
+
+<body>   
+<input type="button" class ="intro-btn"value="客語豆腐烏">
+<p>
+    <h5><div class="intro">𠊎係乞食命皇帝嘴，好食懶做，下二擺愛仰般搞𪹚龍？ 𪘒𪹚𫝘𫟧𫠛𫣆𬠖󿕅</div></h5>
+<input type="button" class ="photo"value="螢火蟲美景">
+<p>
+        <div><img src="photo.jpg"alt="傷心等"width ="500" class="picture"></div>
+</body>
+</center>
